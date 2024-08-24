@@ -1,27 +1,19 @@
-Last bear market, I made so many mistakes, and I felt sick to my stomach as my portfolio fell over 90 percent. But this bear market, I'm sleeping quite soundly because I learned from my mistakes and I'm doing things differently. For example, I've been hedging my portfolio for several months now. This means that I'm using futures and going short to protect against those brutal bear market crashes.
+## Lessons from the Last Bear Market:
 
-But wait, isn't shorting risky? Well, it can be if you're using it to gamble degenerately, but in my case, I'm not doing that at all. I'm purely using it to hedge so that I can protect the value of my portfolio without needing to sell all my coins. Of course, if the market goes up and starts to recover, then I do lose money with the strategy. But if it goes down, then I make money, which counteracts the value that my portfolio dropped. That's the whole point, and that's why it's called hedging.
+- **😓 Mistakes & Losses:** Last bear market, my portfolio dropped 90%, but this time, I'm sleeping soundly.
+- **🔒 Hedging:** I've been hedging with futures to protect my portfolio without selling coins.
+- **📉 Shorting Risks:** Shorting can be risky if used for gambling, but I'm using it purely for hedging.
+- **💼 Bitget Futures:** I use Bitget's futures platform (they sponsor me, but I've been using them for months).
 
-Anyways, there are a ton of different platforms and approaches when it comes to hedging, but today I want to show you how to do so on Bitget using their futures platform. Full disclosure: they are the sponsors of this video, but I've been using them for months now, and it works quite well. So let's take a look, shall we?
+## How to Hedge on Bitget:
 
-Alrighty, so we're here at the homepage of Bitget, and we want to go here to trade futures, right, to hedge. But the first thing you gotta do is deposit some funds. You can go to assets and deposit. So it depends on what type of futures you want to trade, right? I'm going to show you USDT today, but you can also deposit other types of coins like BTC, ETH, XRP, and others if you want to trade these coin-margin futures or USDC as well. 
+1. **💰 Deposit:** Go to assets, deposit USDT (or other coins like BTC, ETH).
+2. **🔄 Transfer:** Move funds to your futures account.
+3. **💼 Open a Position:** Choose isolated margin mode, low leverage (1X recommended), and short BTC/USDT.
+4. **📊 Manage:** Keep an eye on positions, consider setting stop-loss/take-profit, but I prefer manual monitoring.
 
-But let's just say I deposited some USDT, then you go to transfer, click on USDT, and I want to transfer, let's say, 200. Okay, confirm. Boom, it's that simple. Then go to futures, and I'm going to click here and select a coin pair. So I'm just going to trade BTC/USDT, and you have to go here. There are two different types of margin modes. I'm not going to go too deep—you can read about it yourself—but I think for beginners, isolated is better because your positions can kind of be separated so they don't affect each other. Like if one goes the wrong way too much, it won't get liquidated and clear all the other positions. That's for cross, but we're not doing that; we're doing isolated.
+## Key Takeaways:
 
-And then, I definitely would recommend keeping your leverage multiple low—low, low, low, low—like 1X, which means no leverage. Maybe two, maybe three at most, but definitely go easy when you're starting, okay? And then, let's see, we want to open a position. Open a short right here. It's "buy long," "sell short," and then you can close the position here as well. You can do all types of orders, but I'm just going to do a market to keep things simple. Cost value, okay, I'm going to do this, and then I'm going to open 100. I'm going to sell short. Succeeded. And then it shows up down here if we scroll down a little bit, right?
-
-So you can see a lot of different things: the position size, the margin ratio, the liquidation price, which is 40,000 and more, and that's really far away from the current price, so I don't have to really worry about getting liquidated at all. And then it shows you your unrealized profit and loss, your return percentage, and other stuff, right? It's pretty self-explanatory. And you can also close it here, close your orders. There's some advanced stuff I'm not going to touch on today. 
-
-I didn't set a take-profit and stop-loss—you can do that really easily. Just go like this and take profit, right? So it needs to be less because we're going short. So let's say we put in 19,000. Expected rate of return is six percent at this take-profit level, right? Press confirm. That's really easy. And then stop-loss, same. Put something over—if it goes too high, that's against my short. Let's say 22,000—that's minus nine percent. I'll just show you one, okay? Press confirm. Confirm. I set a stop-loss, and here you go. You can see it here, and you can also cancel this here too.
-
-But in general, sometimes I don't like setting take-profits and stop-losses because in my mind, that's more like active trading, right? Swing trading, then you do that, you can take profit, you can look at the charts. But if I want to hedge, then I don't want to be, like, stopped out and get my hedge removed, right? Let's say it goes high, and then let's say this keeps on going higher and higher, hits my stop-loss, and then it comes all the way back down, but I don't have a position open anymore.
-
-So of course you could say, like, set your stop-losses better, which is okay, sure. But sometimes I just like leaving this by itself, kind of like naked without any take-profit or stop-loss, and just monitoring it and closing it manually, taking profit manually, or closing it and opening it with less leverage if it keeps on going up and against me, right? So that's kind of how I think about it. 
-
-And the beauty of this is that we have a 1X BTC short, but because this is isolated, I can also go to ETH right now, and I can also open—let's see, let me just do 50. It's at 2X right now. So now you see both, 2X ETH short, and you can see all the things here, and you can kind of manage them both here. So that's pretty self-explanatory, right?
-
-So just to take a step back, you come here to Bitget, you can deposit some funds—I recommend USDT, but you can do other ones too—and then you use their futures platform, use the one that you deposited for, and then you can open some shorts. Use isolated, keep them at low leverage, you can try out some other ones, but I use market, I use cost value, you can sell short, and it's really easy. Just come here and manage them, keep your eye on them, and if the market goes down more during bear markets, if there are big crashes, we don't have to worry about our portfolio value dropping because our shorts are going to kind of counter that action, right?
-
-Okay, so I'm a huge fan of hedging, but I want to stress that this is not really something that you can set and forget. You gotta keep an eye out on your positions—I recommend at least daily—so you can adjust them if need be, or else if the market moves too much too soon, then you may get liquidated unnecessarily. Also, you may be thinking, isn't it too late to hedge at this point? Well, I don't think so because we're still in a bear market after all, and even if the bottom is in, which I doubt, it could still be advantageous to hedge until we get back into bull mode convincingly. 
-
-Just remember, the goal here is not to trade wildly and make a lot of money; the goal is to hedge. So you gotta think about this whole strategy differently. And by the way, if you want to try Bitget, then be sure to use my link below because you can get a bonus based on your deposit amount. Check out the link, and it gives you all the info you need on that.
+- **🛠️ Hedging vs. Trading:** The goal is to hedge, not to trade wildly for profit.
+- **⏰ Monitor Daily:** Hedging isn't "set and forget"; you need to adjust positions regularly.
+- **🔗 Try Bitget:** Use my link for a bonus when you deposit.
